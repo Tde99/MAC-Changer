@@ -8,7 +8,7 @@
 MAC-Changer
 A simple and effective Python automation tool to change your network interface's MAC address on Linux systems. It provides a menu-driven interface to randomize, manually set, or restore your MAC address to its original state.
 
-* **Features**
+**Features**
 * **Random MAC:** Generate and apply a completely random MAC address.
 * **Manual Entry:** Set a specific MAC address of your choice.
 * **Restore Original:** Quickly revert the interface to its permanent/original hardware MAC.
@@ -19,7 +19,7 @@ The following tools are required for the script to function:
 Python 3.x
 Nmap & Macchanger: (The script uses macchanger command)
 
-* **Installation**
+**Installation**
 Clone the repository:
     * git clone [https://github.com/Tde99/MAC-Changer.git](https://github.com/Tde99/MAC-Changer.git)
 
