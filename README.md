@@ -26,13 +26,13 @@ Nmap & Macchanger: (The script uses macchanger command)
 
 Installation
 Clone the repository:
-  git clone [https://github.com/Tde99/MAC-Changer.git](https://github.com/Tde99/MAC-Changer.git)
+    * git clone [https://github.com/Tde99/MAC-Changer.git](https://github.com/Tde99/MAC-Changer.git)
 
 Navigate to the directory:
-  cd MAC-Changer
+   * cd MAC-Changer
 
 Make the script executable:
-  chmod +x machanger.py
+   * chmod +x machanger.py
 
 Usage
 Since changing a MAC address requires administrative access, run with sudo:
